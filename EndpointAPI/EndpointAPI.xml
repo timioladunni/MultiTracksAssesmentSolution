@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EndpointAPI</name>
+    </assembly>
+    <members>
+        <member name="M:EndpointAPI.Controllers.MultitracksController.GetArtist(System.String)">
+            <summary>
+            Endpoint to get artist detail using the artist's name to search
+            </summary>
+            <param name="artistName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EndpointAPI.Controllers.MultitracksController.AddArtist(EndpointAPI.Infrastructure.ArtistInputModel)">
+            <summary>
+            Endpoint to add a new artist to the database using the given model
+            </summary>
+            <param name="artist"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EndpointAPI.Controllers.MultitracksController.ListSongs(System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Endpoint to get the all the songs in the database
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

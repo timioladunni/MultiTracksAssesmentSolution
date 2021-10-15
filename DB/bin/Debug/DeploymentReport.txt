@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Album] (Table)
+       [dbo].[Artist] (Table)
+       [dbo].[AssessmentSteps] (Table)
+       [dbo].[Song] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Album] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Artist] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Song] (Default Constraint)
+       [dbo].[GetAssessmentSteps] (Procedure)
+
+** Supporting actions

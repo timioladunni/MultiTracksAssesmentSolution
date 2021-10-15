@@ -1,0 +1,6 @@
+C:\Users\dell 7404\Desktop\.net-main\DB\bin\Debug\MultiTracksDB.dacpac
+C:\Users\dell 7404\Desktop\.net-main\DB\bin\Debug\Assessment.dll
+C:\Users\dell 7404\Desktop\.net-main\DB\bin\Debug\Assessment.pdb
+C:\Users\dell 7404\Desktop\.net-main\DB\obj\Debug\Assessment.dll
+C:\Users\dell 7404\Desktop\.net-main\DB\obj\Debug\Assessment.pdb
+C:\Users\dell 7404\Desktop\.net-main\DB\obj\Debug\MultiTracksDB.sqlprojAssemblyReference.cache
